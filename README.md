@@ -7,4 +7,4 @@ Project is created with:
 * Slick.js library - 'the last carousel you'll ever need' (https://github.com/kenwheeler/slick)
 
 # GitHub Pages
-
+https://aliaksandrasavelyeva.github.io/MartaUP-landing-page/
