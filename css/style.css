@@ -303,10 +303,9 @@ a {
 .footer__inner {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     height: 55px;
     color: #272727;
-    padding: 0 40px;
+    padding: 20px 40px 17px;
 }
 
 .footer__link a + a {
